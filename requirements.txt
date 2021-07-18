@@ -1,0 +1,6 @@
+matplotlib
+pywin32
+opencv
+numpy
+glob2
+cloudpickle
